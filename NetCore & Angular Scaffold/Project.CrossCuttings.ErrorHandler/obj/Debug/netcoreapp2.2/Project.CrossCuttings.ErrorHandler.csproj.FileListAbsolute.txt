@@ -1,0 +1,9 @@
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.CrossCuttings.ErrorHandler\bin\Debug\netcoreapp2.2\Project.CrossCuttings.ErrorHandler.deps.json
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.CrossCuttings.ErrorHandler\bin\Debug\netcoreapp2.2\Project.CrossCuttings.ErrorHandler.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.CrossCuttings.ErrorHandler\bin\Debug\netcoreapp2.2\Project.CrossCuttings.ErrorHandler.pdb
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.CrossCuttings.ErrorHandler\obj\Debug\netcoreapp2.2\Project.CrossCuttings.ErrorHandler.csprojAssemblyReference.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.CrossCuttings.ErrorHandler\obj\Debug\netcoreapp2.2\Project.CrossCuttings.ErrorHandler.csproj.CoreCompileInputs.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.CrossCuttings.ErrorHandler\obj\Debug\netcoreapp2.2\Project.CrossCuttings.ErrorHandler.AssemblyInfoInputs.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.CrossCuttings.ErrorHandler\obj\Debug\netcoreapp2.2\Project.CrossCuttings.ErrorHandler.AssemblyInfo.cs
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.CrossCuttings.ErrorHandler\obj\Debug\netcoreapp2.2\Project.CrossCuttings.ErrorHandler.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.CrossCuttings.ErrorHandler\obj\Debug\netcoreapp2.2\Project.CrossCuttings.ErrorHandler.pdb

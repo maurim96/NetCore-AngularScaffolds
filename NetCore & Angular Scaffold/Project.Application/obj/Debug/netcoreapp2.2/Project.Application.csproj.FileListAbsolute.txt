@@ -1,0 +1,12 @@
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\bin\Debug\netcoreapp2.2\Project.Application.deps.json
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\bin\Debug\netcoreapp2.2\Project.Application.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\bin\Debug\netcoreapp2.2\Project.Application.pdb
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\bin\Debug\netcoreapp2.2\Project.Domain.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\bin\Debug\netcoreapp2.2\Project.Domain.pdb
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\obj\Debug\netcoreapp2.2\Project.Application.csprojAssemblyReference.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\obj\Debug\netcoreapp2.2\Project.Application.csproj.CoreCompileInputs.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\obj\Debug\netcoreapp2.2\Project.Application.AssemblyInfoInputs.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\obj\Debug\netcoreapp2.2\Project.Application.AssemblyInfo.cs
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\obj\Debug\netcoreapp2.2\Project.Application.csproj.CopyComplete
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\obj\Debug\netcoreapp2.2\Project.Application.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Application\obj\Debug\netcoreapp2.2\Project.Application.pdb

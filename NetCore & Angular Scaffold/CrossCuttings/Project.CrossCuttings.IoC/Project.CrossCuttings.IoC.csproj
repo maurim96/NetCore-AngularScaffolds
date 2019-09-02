@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Project.Application\Project.Application.csproj" />
+    <ProjectReference Include="..\..\Project.CrossCuttings.ErrorHandler\Project.CrossCuttings.ErrorHandler.csproj" />
+    <ProjectReference Include="..\..\Project.Persistance\Project.Persistance.csproj" />
+  </ItemGroup>
+
+</Project>

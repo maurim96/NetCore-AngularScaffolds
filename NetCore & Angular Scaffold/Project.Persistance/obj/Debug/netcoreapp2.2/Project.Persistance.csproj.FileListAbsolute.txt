@@ -1,0 +1,14 @@
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\bin\Debug\netcoreapp2.2\Project.Persistance.deps.json
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\bin\Debug\netcoreapp2.2\Project.Persistance.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\bin\Debug\netcoreapp2.2\Project.Persistance.pdb
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\bin\Debug\netcoreapp2.2\Project.Application.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\bin\Debug\netcoreapp2.2\Project.Domain.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\bin\Debug\netcoreapp2.2\Project.Application.pdb
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\bin\Debug\netcoreapp2.2\Project.Domain.pdb
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\obj\Debug\netcoreapp2.2\Project.Persistance.csprojAssemblyReference.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\obj\Debug\netcoreapp2.2\Project.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\obj\Debug\netcoreapp2.2\Project.Persistance.AssemblyInfoInputs.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\obj\Debug\netcoreapp2.2\Project.Persistance.AssemblyInfo.cs
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\obj\Debug\netcoreapp2.2\Project.Persistance.csproj.CopyComplete
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\obj\Debug\netcoreapp2.2\Project.Persistance.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Persistance\obj\Debug\netcoreapp2.2\Project.Persistance.pdb

@@ -1,0 +1,9 @@
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Domain\bin\Debug\netcoreapp2.2\Project.Domain.deps.json
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Domain\bin\Debug\netcoreapp2.2\Project.Domain.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Domain\bin\Debug\netcoreapp2.2\Project.Domain.pdb
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Domain\obj\Debug\netcoreapp2.2\Project.Domain.csprojAssemblyReference.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Domain\obj\Debug\netcoreapp2.2\Project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Domain\obj\Debug\netcoreapp2.2\Project.Domain.AssemblyInfoInputs.cache
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Domain\obj\Debug\netcoreapp2.2\Project.Domain.AssemblyInfo.cs
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Domain\obj\Debug\netcoreapp2.2\Project.Domain.dll
+C:\Users\mbianchi\source\repos\NetCoreWithAngular\Project.Domain\obj\Debug\netcoreapp2.2\Project.Domain.pdb
